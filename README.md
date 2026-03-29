@@ -35,7 +35,7 @@ I created a HackerRank account and completed a beginner coding challenge. I also
 
 Folder: `task-3-platforms/`
 
-Google Form Link: `https://docs.google.com/forms/d/1JAsWU4P5iTQdsyPE5TnfhGdudDvcNt6zHdrCe-FAU0U`
+Google Form Link: [](https://docs.google.com/forms/d/1JAsWU4P5iTQdsyPE5TnfhGdudDvcNt6zHdrCe-FAU0U)
 
 ---
 
