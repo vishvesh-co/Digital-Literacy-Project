@@ -25,7 +25,7 @@ Folder: [task-1-presentation/](task-1-presentation/)
 
 For this task, I created professional profiles on GitHub, LinkedIn, and HackerRank. These platforms help build my digital presence and improve coding skills. Screenshots of the profiles are included in the folder.
 
-Folder: `task-2-portfolio/`
+Folder: [task-2-portfolio/](task-2-portfolio/)
 
 ---
 
@@ -33,7 +33,7 @@ Folder: `task-2-portfolio/`
 
 I created a HackerRank account and completed a beginner coding challenge. I also created a Google Form titled "Digital Literacy Awareness Quiz" and linked responses to Google Sheets.
 
-Folder: `task-3-platforms/`
+Folder: [task-3-platforms/](task-3-platforms/)
 
 Google Form Link: [https://docs.google.com/forms/d/1JAsWU4P5iTQdsyPE5TnfhGdudDvcNt6zHdrCe-FAU0U](https://docs.google.com/forms/d/1JAsWU4P5iTQdsyPE5TnfhGdudDvcNt6zHdrCe-FAU0U)
 
@@ -43,7 +43,7 @@ Google Form Link: [https://docs.google.com/forms/d/1JAsWU4P5iTQdsyPE5TnfhGdudDvc
 
 This task includes two professional emails and a social media do’s and don’ts checklist for responsible online communication.
 
-Folder: `task-4-email-etiquette/`
+Folder: [task-4-email-etiquette/](task-4-email-etiquette/)
 
 ---
 
@@ -51,7 +51,7 @@ Folder: `task-4-email-etiquette/`
 
 This task includes a cyberbullying case study and a prevention checklist to help students stay safe online.
 
-Folder: `task-5-cybercrime/`
+Folder: [task-5-cybercrime/](task-5-cybercrime/)
 
 ---
 
@@ -59,7 +59,7 @@ Folder: `task-5-cybercrime/`
 
 The complete project report is available in the report folder.
 
-Folder: `report/`
+Folder: [report/](report/)
 
 ---
 
