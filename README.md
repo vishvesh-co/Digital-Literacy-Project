@@ -49,7 +49,7 @@ Folder: `task-4-email-etiquette/`
 
 ## Task 5 – Cybercrime Awareness
 
-This task includes a phishing case study and a prevention checklist to help students stay safe online.
+This task includes a cyberbullying case study and a prevention checklist to help students stay safe online.
 
 Folder: `task-5-cybercrime/`
 
