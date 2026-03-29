@@ -17,7 +17,7 @@ This repository contains my Digital Literacy Portfolio created as part of the CS
 
 In this task, I created a digital literacy awareness infographic using Canva. The infographic explains what digital literacy is, safe internet practices, professional online presence, and email etiquette. The goal of this task was to present digital literacy concepts visually.
 
-Folder: `task-1-presentation/`
+Folder: [task-1-presentation/](task-1-presentation/)
 
 ---
 
